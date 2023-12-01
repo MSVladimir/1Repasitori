@@ -6,7 +6,7 @@ namespace _1111
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Planet!");
+            Console.WriteLine("Hello World");
         }
     }
 }
